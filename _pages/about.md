@@ -9,7 +9,7 @@ redirect_from:
 
 I am a fifth-year Computer Science and Engineering PhD candidate at Wright State University, advised by Professor Junjie Zhang. 
 
-My dissertation focuses on transferring knowledge across language boundaries to find vulnerabilities in interpreters. Broadly, I am interested in systemsecurity, binary analysis, and programming language design.
+My dissertation focuses on transferring knowledge across language boundaries to find vulnerabilities in interpreters. Broadly, I am interested in systems security, binary analysis, and programming language design.
 
 Bug Counts: PHP (100+), Python (10), Ruby (8), NASA CryptoLib (2)
 
